@@ -1,0 +1,28 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Jaywhisker",
+      "name": "Wei Xuan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51687528?v=4",
+      "profile": "https://cheng-wei-xuan.vercel.app/",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Satiscribble-MAIN",
+  "projectOwner": "Jaywhisker"
+}
