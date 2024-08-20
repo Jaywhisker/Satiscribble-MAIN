@@ -1,6 +1,3 @@
-[submodule "path/to/submodule1"]
-	path = path/to/submodule1
-	url = https://github.com/Jaywhisker/Satiscribble-UI.git
 [submodule "Satiscribble-UI"]
 	path = Satiscribble-UI
 	url = https://github.com/Jaywhisker/Satiscribble-UI.git
