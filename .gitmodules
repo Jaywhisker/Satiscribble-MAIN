@@ -1,0 +1,15 @@
+[submodule "path/to/submodule1"]
+	path = path/to/submodule1
+	url = https://github.com/Jaywhisker/Satiscribble-UI.git
+[submodule "Satiscribble-UI"]
+	path = Satiscribble-UI
+	url = https://github.com/Jaywhisker/Satiscribble-UI.git
+[submodule "Satiscribble-AI"]
+	path = Satiscribble-AI
+	url = https://github.com/Jaywhisker/Satiscribble-AI.git
+[submodule "Satiscribble-CHROMA"]
+	path = Satiscribble-CHROMA
+	url = https://github.com/Jaywhisker/Satiscribble-CHROMA.git
+[submodule "Satiscribble-MONGO"]
+	path = Satiscribble-MONGO
+	url = https://github.com/Jaywhisker/Satiscribble-MONGO.git
