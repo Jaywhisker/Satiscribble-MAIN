@@ -33,15 +33,17 @@ Special thanks to the following
 
 ## Contributors ✨
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
+Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://cheng-wei-xuan.vercel.app/"><img src="https://avatars.githubusercontent.com/u/51687528?v=4?s=100" width="100px;" alt="Wei Xuan"/><br /><sub><b>Wei Xuan</b></sub></a><br /><a href="#infra-Jaywhisker" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Tests">⚠️</a> <a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://cheng-wei-xuan.vercel.app/"><img src="https://avatars.githubusercontent.com/u/51687528?v=4?s=100" width="100px;" alt="Wei Xuan"/><br /><sub><b>Wei Xuan</b></sub></a><br /><a href="#infra-Jaywhisker" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Code">💻</a><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Docs">📖</a><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Shockbob17"><img src="https://avatars.githubusercontent.com/u/94674990?v=4?s=100" width="100px;" alt="Morgan O'Sullivan"/><br /><sub><b>Morgan O'Sullivan</b></sub></a><br /><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=bcjunxiang" title="User Testing">📓</a><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Shockbob17" title="Code">💻</a><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Design">🎨</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/bcjunxiang"><img src="https://avatars.githubusercontent.com/u/117553226?v=4?s=100" width="100px;" alt="bcjunxiang"/><br /><sub><b>bcjunxiang</b></sub></a><br /><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=bcjunxiang" title="User Testing">📓</a> <a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=bcjunxiang" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/quietherb"><img src="https://avatars.githubusercontent.com/u/97244144?v=4?s=100" width="100px;" alt="quietherb"/><br /><sub><b>quietherb</b></sub></a><br /><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=quietherb" title="Code">💻</a><a href="https://github.com/Jaywhisker/Satiscribble-MAIN/commits?author=Jaywhisker" title="Design">🎨</a></td>
     </tr>
   </tbody>
 </table>
@@ -51,4 +53,4 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification.
