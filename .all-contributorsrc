@@ -1,0 +1,27 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "quietherb",
+      "name": "quietherb",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97244144?v=4",
+      "profile": "https://github.com/quietherb",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "skipCi": true,
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "projectName": "Satiscribble-MAIN",
+  "projectOwner": "Jaywhisker"
+}
