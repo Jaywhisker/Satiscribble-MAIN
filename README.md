@@ -26,12 +26,7 @@ git push origin <branch name>
 # Setup
 Each submodule will be hosted on Docker. Please look into the READMEs of each microservice for setup instructions and more details.
 
-# Contributors✨
-Special thanks to the following
-
-
-
-## Contributors ✨
+# Contributors ✨
 
 Thanks goes to these wonderful people:
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
