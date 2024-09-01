@@ -4,6 +4,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 This is the main repository for Satiscribble. It contains all the submodules for each microservice used in Satiscribble.
 
+Project Documentation and Details: https://handsomely-fascinator-0c1.notion.site/Satiscribble-Landing-Page-9d67dd769515465c9e5982fa5fa034dd 
+
 # Intialisation
 To intialise each submodules, run the following function in your terminal.
 ```
